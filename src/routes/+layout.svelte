@@ -7,10 +7,6 @@
         background-color: azure;
     }
 
-    h1, p {
-        font-family: 'Aboreto', serif;
-    }
-
     .container {
         height: 100vh;
         margin: auto;

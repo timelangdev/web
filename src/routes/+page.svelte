@@ -7,7 +7,7 @@
 
 
 <style>
-    h1 {
+    h1, p {
         font-family: 'Aboreto', serif;
     }
 
